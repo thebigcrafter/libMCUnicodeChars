@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace MintoD\libMCUnicodeChars;
+namespace tobydev27\libMCUnicodeChars;
 
 class libMCUnicodeChars {
 

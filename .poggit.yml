@@ -1,4 +1,4 @@
---- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/MintoD/libMCUnicodeChars
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/thebigcrafter/libMCUnicodeChars
 build-by-default: true
 branches:
 - main

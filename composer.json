@@ -1,17 +1,17 @@
 {
-    "name": "mintod/libmcunicodechars",
+    "name": "tobydev27/libmcunicodechars",
     "description": "Minecraft Bedrock unicode characters library.",
     "version": "1.1.0",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "MintoD\\libMCUnicodeChars\\": "src/MintoD/libMCUnicodeChars"
+            "tobydev27\\libMCUnicodeChars\\": "src/tobydev27/libMCUnicodeChars"
         }
     },
     "authors": [
         {
-            "name": "MintoD",
+            "name": "tobydev27",
             "email": "tobythedev7@outlook.com"
         }
     ],

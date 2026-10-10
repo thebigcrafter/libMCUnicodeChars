@@ -1,4 +1,4 @@
-[![PHPStan](https://github.com/thebigcrafter/libMCUnicodeChars/actions/workflows/phpstan.yml/badge.svg)](https://github.com/MintoD/libMCUnicodeChars/actions/workflows/phpstan.yml)
+[![PHPStan](https://github.com/thebigcrafter/libMCUnicodeChars/actions/workflows/phpstan.yml/badge.svg)](https://github.com/thebigcrafter/libMCUnicodeChars/actions/workflows/phpstan.yml)
 
 <div align="center">
   <a href="https://github.com/thebigcrafter/libMCUnicodeChars">

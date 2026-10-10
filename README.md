@@ -18,6 +18,18 @@
   </p>
 </div>
 
+## Usage
+
+The library replaces named Bedrock UI tokens with their corresponding Unicode characters:
+
+```php
+use tobydev27\libMCUnicodeChars\libMCUnicodeChars;
+
+$text = libMCUnicodeChars::replace("Press {JUMP_BUTTON} to jump");
+```
+
+Version 2.0.0 uses the `tobydev27\libMCUnicodeChars` namespace and antigen. Consumers of the older `MintoD\libMCUnicodeChars` namespace must update their imports and dependency reference.
+
 # License
 Copyright (c) tobydev27. All rights reserved.
 

@@ -1,5 +1,5 @@
 name: libMCUnicodeChars
-version: 1.1.0
+version: 2.0.0
 authors: [tobydev27, thebigcrafter]
 description: Minecraft Bedrock unicode characters library
 antigen: tobydev27\libMCUnicodeChars
